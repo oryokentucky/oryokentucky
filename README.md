@@ -46,15 +46,6 @@ An AI-powered assistant that runs on your laptop to help with everyday tasks —
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=oryokentucky&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oryokentucky&layout=compact&hide_border=true" alt="Top languages" height="160"/>
-</p>
-
----
-
 <p align="center">
   <i>Always learning, always building. 🚀</i>
 </p>
